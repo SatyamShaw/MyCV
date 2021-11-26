@@ -110,11 +110,22 @@ position: absolute;
 }
 .bottom-container
 {
-  margin: 50px;
   padding: 50px;
   background-color: #66BFBF;
 }
+
 .footer-link
 {
   margin: 15px;
+  color: #6166B3;
+}
+a:hover
+{
+  color: black;
+}
+.copyright
+{
+  color: white;
+  font-size: 15px;
+  padding: 20px 0;
 }
