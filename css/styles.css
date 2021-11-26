@@ -1,0 +1,120 @@
+body
+{
+  background-color: #E4F9F5;
+  text-align: center;
+  font-family: Lucida Sans;
+  font-size: 1.25em;
+}
+.top-container
+{
+  margin: 50px;
+  background-color: #EAF6F6;
+}
+.middle-container
+{
+  margin: 50px;
+  background-color: #EAF6F6;
+}
+h1
+{
+font-size: 250%;
+color: #32C1CD;
+}
+h2
+{
+font-style: normal;
+color: #32C1CD;
+}
+h3
+{
+font-style: normal;
+color: #32C1CD;
+}
+hr
+{
+  width: 10%;
+  margin: 50px auto 50px auto;
+  border-top: 5px dotted #94B3FD;
+}
+.top-container
+{
+  display: inline-block;
+}
+.cloud-top
+{
+position: relative;
+left: 225px;
+}
+.cloud-bottom
+{
+position: absolute;
+}
+.profile-img
+{
+ border-radius: 100%;
+ width: 15%;
+ margin-top: 40px;
+}
+.webdesign-img
+{
+ height: 150px;
+ padding: 40px;
+ float: left;
+}
+.coding-img
+{
+ height: 150px;
+ padding: 40px;
+ float: right;
+}
+.skill-row
+{
+  margin: auto;
+  width: 50%;
+  line-height: 2;
+}
+.contact-me
+{
+  margin: auto;
+  width: 50%;
+  line-height: 2;
+  padding-bottom: 20px;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  margin-bottom: 200px;
+  text-decoration: none;
+  position: relative;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.bottom-container
+{
+  margin: 50px;
+  padding: 50px;
+  background-color: #66BFBF;
+}
+.footer-link
+{
+  margin: 15px;
+}
